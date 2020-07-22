@@ -1,0 +1,25 @@
+
+body{
+
+	width: 20%; 
+    height: 200px;
+    position: absolute;
+    padding: 10% 20% 20% 35%;
+}
+img{	
+ 
+ position: relative;
+
+}
+
+
+
+
+h1{
+color: white;
+ padding: 0% 0% 0% 0%;	
+}
+
+form{
+float:left;
+}

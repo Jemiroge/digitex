@@ -1,0 +1,56 @@
+
+13 :33 :58 
+
+orden 66471126 tec MAURICIO CARVAJALINO ,se valida motivo de suspensión Cliente ausente.  observación intentamos comunicación con la linea 0375692678 la cual no tenemos contacto pendiente ya que posee doble franja para suspoensión
+------------------------------------------------------------------------------------------ 
+
+156178630 tec JHONATAN GARAVITO  motivo Falla masiva plataformas observación Ticket REQ000001786568 FALLA BA Configuración pendiente retomar
+------------------------------------------------------------------------------------------
+
+orden 156237798 tec LUIS ALVAREZ se valida motivo de suspensión Cliente solicita reagendar  tk A1598738 observación CERRADA agendada 08/06/2020 franja a.m
+------------------------------------------------------------------------------------------
+
+orden 156239474 tec CIRO ALFONSO CAMARGO ,se valida motivo de suspensión Cliente solicita reagendar tk AFJ1598754 observación estado CERRADA Tecnico informa que el cliente nos puede atender para el 8 de junio en la tarde, me comunico con la sra NUBIA ESPERANZA VELASCO CORDERO confirma cedula 40033612 y vista para el dia de maNana
+------------------------------------------------------------------------------------------
+
+orden 6000000021442 tec WILSON RICARDO ALEMAN ,se valida motivo de suspensión Pendiente respuesta Asistec  tk B4790175   observación cerrada
+------------------------------------------------------------------------------------------
+
+orden 156187679 tec NELSON FERNANDO MEDINA ,se valida motivo de suspensión Cliente solicita reagendar  tk AFJ1598781 observación Estado CERRADA informa solicita reagndar para el dia martes 09 junio jornada AM
+------------------------------------------------------------------------------------------
+
+orden 1000000029862 tec MIGUEL ANGEL MURCIA  ,se valida motivo de suspensión Pendiente configuración módem.  observación pendiente cierre
+------------------------------------------------------------------------------------------
+
+orden 6000000021093  tec MARIO ALBERTO ARDILA ,se valida motivo de suspensión Requiere precalificación.  observación  RD 10 caja 3 par 10 Distribuidor 2512161665 Puestos pos 2-14 ADSL 2-14 Dislam 10.37.8.98 error para suspender en SLA se envia al bucket en la tarde 
+
+orden 1000000030305 tec JUAN DE JESUS ESPINOSA ,se valida motivo de suspensión Requiere soporte de Asistec tk B4790018 observación NIVEL ABIERTA  
+
+orden 66477560  tec PEDRO HERMOGENES CUITIVA ,se valida motivo de suspensión Cliente ausente. observación se intenta comunicacion con la linea 3176750132 ingresa abuzon de voz pendiente 
+
+ 	
+ 
+---------------------------------------------------------------------------
+15 :05 :52 
+orden 6000000021475 tec WILMAN VELASQUE ,se valida motivo de suspensión ausente observación intentamos comunicacion a la linea 3178535197 la cual ingresa abuzon de voz es necesariuo suspender ya que posee la sfranjas continuas 
+------------------------------------------------------------------------------------------
+
+orden 66471420 tec JHONATAN GARAVITO ,se valida motivo de suspensión Falta de materiales  observación pendiente material decodificadores para continuar 
+------------------------------------------------------------------------------------------
+
+orden 66478446 tec JULIAN RICARDO GRANADOS ,se valida motivo de suspensión Solicitud del cliente  observación orden mal suspendida es necesario suspenderla correctamente intentamos comnicacion con cliente ala linea 3224136973 sin respuesta
+------------------------------------------------------------------------------------------ 
+
+orden 1000000029505 tec DANNY JOVAN MALAVER ,se valida motivo de suspensión Pendiente respuesta Asistec tk B4790472 observación estado cerradp  Motivo Por El Cual No Es Procedente El Cierre, Corregir Inventario pendiente retomar para cierre
+------------------------------------------------------------------------------------------
+
+ 
+---------------------------------------------------------------------------
+16 :34 :50 
+      ORDEN 1000000029497 TEC OSWAL YESID VILLAMIL ,SE VALIDA MOTIVO DE SUSPENSIÓN Solicitud del cliente    OBSERVACIÓN ES NECESARIO VALIDAR CON LINEA DE RESCATE YA QUE ES UN APROVISIONAMIENTO SE ENRUTA PARA GESTIÓN  
+---------------------------------------------------------------------------
+18 :41 :20 
+    1000000029497  se genera incumplimiento para la orden se reagenda eecc derly diaz
+
+1000000030217 se genera incumplimiento para la orden se reagenda eecc derly diaz 
+---------------------------------------------------------------------------

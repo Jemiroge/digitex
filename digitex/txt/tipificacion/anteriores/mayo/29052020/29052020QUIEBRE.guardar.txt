@@ -1,0 +1,22 @@
+
+10 :47 :51
+ orden 155866976 tec JOSE JAIDERME OQUENDO ,se valida motivo   Quiebre Técnico Motivo No Realizado Banda Ancha RED PRIMARIA SATURADA Observaciones No Realizado Banda Ancha Red primaria saturada armario 1001 
+------------------------------------------------------------------------------------------ 
+
+orden 155861617 tec JOSE JAIDERME OQUENDO ,se valida motivo   Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Red secundaria saturada caja 1656 1657 y 1658 paralelas saturada
+------------------------------------------------------------------------------------------
+
+orden 155773224 tec JOSE JAIDERME OQUENDO ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha NO HAY RED SECUNDARIA Observaciones No Realizado Banda Ancha No hay red segundaria en el setor
+------------------------------------------------------------------------------------------
+
+orden 155804370 tec ELKIN ANDRES DIAZ ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Se quiebra la orden por qué la CTO se encuentra saturada por lo tanto no se puede realizar la instalación tike m5510
+------------------------------------------------------------------------------------------
+
+orden 155871632  tec RODOLFO VALENCIA Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Cajas 1543-1544-1110/1011
+------------------------------------------------------------------------------------------
+
+orden 155866661 HERLIN GERARDO CASANOVA Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Red secundaria saturada
+
+
+  
+---------------------------------------------------------------------------

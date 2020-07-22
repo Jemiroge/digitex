@@ -1,0 +1,67 @@
+
+13 :01 :08
+    orden 155615615 tec MIGUEL ANGEL VIDAL ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1591327 observación INDICA QUE ESTA BUSCANDO LA DIRECCION PERO QUE NO LA ENCUENTRA SE LLAMA A 3017217361 NO CONTESTA SE MARCA A 3127303571 NO CONTESTA
+------------------------------------------------------------------------------------------
+
+66429682 JOSE BERTULFO HINCAPIE Solicitud del cliente nos comunicamos con la linea 3188279836 la cual no tenemos comunicación pendiente
+------------------------------------------------------------------------------------------
+ 
+orden 66432065 tec JOSE BERTULFO HINCAPIE ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación se valida no tiene notas se enruta para gestión 
+------------------------------------------------------------------------------------------
+
+66437650 esta en primera posición a yeferson isner murillo EECC Jimena Paz
+------------------------------------------------------------------------------------------
+
+155604169  tec andres felipe villaquiran EECC Gisela Marulanda de apoyo sin zonas Cargadas 
+------------------------------------------------------------------------------------------
+
+155572447 tec ISIDRO FRANCO motivo Cliente solicita reagendar tk A1591399 observaciones  se re-ageanda la visita para el dia Jueves 28 mayo en franja am
+------------------------------------------------------------------------------------------
+
+orden 155617927 tec JOSE JAIDERME OQUENDO ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1591402 observación tecnico indica que no logra contacto con el cliente valido a los numeros de contacto pero no fue posible se suspende por incumplimiento gestion por daniela antonio desde casa
+------------------------------------------------------------------------------------------
+
+66432065 tec JOSE BERTULFO HINCAPIE motivo orden en ejecución se esta validando porque técnico suspende por este motivo 
+------------------------------------------------------------------------------------------
+
+orden 66432295 tec LINO MAZUERA ,se valida motivo de suspensión Falta de materiales  observación cambiar deco PVR esperando equipo pendiente retomar 
+------------------------------------------------------------------------------------------
+
+orden 66436925 tec JANIER BEDOYA ,se valida motivo de suspensión Solicitud del cliente  observación nos intentamos comunicar a al linea 3122003849 el cual ingresa  a buzon pendiente contacto y enrutamiento franja pm 
+------------------------------------------------------------------------------------------
+
+orden 155716779 tec JUAN STEBAN MARTINEZ ,se valida motivo de suspensión Orden de trabajo en ejecución.observacion pendiente retomar
+------------------------------------------------------------------------------------------
+
+155429948 esta solo asignandola a cesar meza  eecc milena palacios
+------------------------------------------------------------------------------------------ 
+
+orden 155429948  tec CESAR ANDRES MEZA ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente  tk S1591503 observación CERRADATT desea re-agendar ya que no los puede recibir el dia de hoy // se llama 3152143501 no contesta - se suspende por incumplimiento por parte del cliente
+------------------------------------------------------------------------------------------
+
+orden 153209639 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1591506 observación CERRADA INDICA QUE NO TIENE COMUNICACION SE LLAMA A 3003681030 NO CONTESTA SE MARCA A 3154100388 NO CONTESTA SE SUSPENDE LA ORDEN COMO INCUMPLIMIENTO DE CITA
+------------------------------------------------------------------------------------------
+
+orden 155716779 tec JUAN STEBAN MARTINEZ ,se valida motivo de suspensión Orden de trabajo en ejecución. observaciones se esta pendiente para retomar orden por parte del técnico 
+------------------------------------------------------------------------------------------
+
+orden 66436879 tec JUAN STEBAN MARTINEZ motivo Orden de trabajo en ejecución.observaciones se esta pendiente para retomar el dia de hoy por técnico 
+------------------------------------------------------------------------------------------
+
+
+orden 66436736 BRAYAN ARCINIEGAS para que pueda iniciarlaEECC Katerine Quinchia
+------------------------------------------------------------------------------------------
+
+
+66432065 SE LA PONES EN SEGUNDA POSICION A BRAYAN ARCINIEGAS EECC Jimena Paz
+------------------------------------------------------------------------------------------
+
+orden 66437599 tec RODRIGO OBREGON ,se valida motivo de suspensión Orden de trabajo en ejecución.
+observación requiere de una cuadrilla  requiere apoyo
+------------------------------------------------------------------------------------------
+
+   
+---------------------------------------------------------------------------

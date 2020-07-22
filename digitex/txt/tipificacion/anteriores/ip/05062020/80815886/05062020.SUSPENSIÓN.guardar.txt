@@ -1,0 +1,113 @@
+
+11 :56 :37 
+      hhhhhhhhhhhhhhhhhhhh 
+---------------------------------------------------------------------------
+17 :25 :27 
+    152890692 tec MIGUEL ANGEL VIDAL motivo Incumplimiento de cita por parte del cliente tk S1597539 Estado CERRADA INDICA QUE ESTA EN EL PREDIO PERO QUE NO HAY NADIE Y QUE NO LOGRA CONCTATO CONEL TITULAR SE LLAMA A 3182569994 NO CONTESTA SE MARCA A 3206524838 NO CONTESTA NO SE LOGRA VALIDAR SE SUSPENDE
+------------------------------------------------------------------------------------------
+
+
+66472300 Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471490  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471537  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471640  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471714  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471745  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471693  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10 EECC David Botina
+------------------------------------------------------------------------------------------
+
+66471112  Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+66471493   Autoriza analista  ELIUTH GARCIA  requiere precalificacion 
+GT1-74-02 a GT8-74-02 / GT1-75-02 a GT8-75-02  OLT: 10.37.30.246  Slot: 15  Puerto: 9,10
+------------------------------------------------------------------------------------------
+
+156120288 WILSON VARGAS se suspende por trabajo en ejecucion ya que la retomara otro técnico indica EECC Katerine Quinchia
+------------------------------------------------------------------------------------------
+
+orden 156120288 tec WILSON VARGAS ,se valida motivo de suspensión Orden de trabajo en ejecución.    observación se pasa a oscar mina por nivelacion de trabajo
+------------------------------------------------------------------------------------------
+
+orden 156060976 tec KEN EDWIN FILIGRANA ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+tk S1597657 observación CERRADA no hay nadie en predio y los contactos estan apagados se suspende orden
+------------------------------------------------------------------------------------------
+
+
+
+
+
+66471904 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473521 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473541 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473624 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473483 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66472703 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+
+66473586 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473677 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473540 escaladas analista eliuth garcia  movistar MOTIVO OTRO EECC David Botina
+------------------------------------------------------------------------------------------
+
+156120288 tec  ISAIAS HURTADO motivo Incumplimiento de cita por parte del cliente tk   S1597750 observacion CERRADAtecnico se comunica e indica que estoy tratando de comunicarme con el cliente y no me contesta y tampoco la citofonia
+------------------------------------------------------------------------------------------
+
+orden 66450583 tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Orden de trabajo en ejecución.
+observación pendiente retomar por parte de movistar
+------------------------------------------------------------------------------------------
+
+66469632  suspender en agendador motivo otro escalada analista eliuth garcia movistar EECC David Botina
+------------------------------------------------------------------------------------------
+
+66471355 suspender en agendador motivo otro escalada analista eliuth garcia movistar EECC David Botina
+------------------------------------------------------------------------------------------
+
+orden 156011867 tec BRAYAN ARCINIEGAS ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1597748 observación CERRADA TECNCICO INDICA QUE CLIENTE SOLICITA REAGENDAR SE TRATA DE ESTABLECER CONTACTO AL 3108912145 NO CONTESTAN TECNICOINDICA QUE TT LE INDICO EL 3016806139 DEL SR JUAN CAMILO ESPOSO DE LA TT TAMPOCO CONTESTA
+------------------------------------------------------------------------------------------
+
+orden 153179409 tec ELKIN ANDRES DIAZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1597716 observación CERRADA tecnico indica que no logra contacto con el cliente valido a los numeros de contacto pero no fue posible
+
+
+
+
+
+    
+---------------------------------------------------------------------------

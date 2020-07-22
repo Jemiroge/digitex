@@ -1,0 +1,41 @@
+
+09 :21 :18
+   orden 66428423 tec JOSE BERTULFO HINCAPIE ,se valida motivo de suspensión Solicitud del cliente  observación intentamos comunicación con la linea 3003391389 sin contacto se esta pendiente ya que cliente agenda para fecha posterior  
+---------------------------------------------------------------------------
+13 :59 :37
+ orden 155807993 tec JAIME HUMBERTO BOLAAOS ,se valida motivo de suspensión Orden de trabajo en ejecución. t observación se esta en validación del porque el técnico suspende por motivo 
+------------------------------------------------------------------------------------------
+
+orden 66439866 tec JOSE JAIDERME OQUENDO ,se valida motivo de suspensión Cliente ausente.  observación nos intentamos comunicar con la linea 3178643625
+------------------------------------------------------------------------------------------
+
+orden 155555072 tec  WILLIAM JAVIER SARRIA motivo  Orden de trabajo en ejecución.Servicio instalado queda pendiente por activación pendiente activacion y cierre 
+------------------------------------------------------------------------------------------
+
+orden 155775282 tec WILLIAM JAVIER SARRIA ,se valida motivo de suspensión Cliente solicita reagendar  tk A1592099 observación CERRADA  se re-ageanda la visita para el dia viernes 29 Mayo en franja pm	 
+------------------------------------------------------------------------------------------
+
+orden 66439007 tec JOSE BERTULFO HINCAPIE xxx ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación requiere la cuadrilla de instalación pendiente apoyo 
+------------------------------------------------------------------------------------------
+
+
+orden 66439866 tec JOSE JAIDERME OQUENDO ,se valida motivo de suspensión ausente  observaciónnos intentamos comunicar con la linea  3178643625 no contestan pendiente comunicacion 
+------------------------------------------------------------------------------------------
+
+orden 155778422 tec BRAINER STEVEN BOLAAOS ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente  tk F1592281, F1592281  observación NO RESPONDE SE VALIDAN MAS NUMEROS PERO NO REGISTRAN MAS, SE PROCEDE A SUSPENDER ORDEN
+------------------------------------------------------------------------------------------
+
+orden 155823493 tec CRISTHIAN DAVID MURILLO  ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente observación  L1592282 sin gestion ABIERTA pendiente 
+e visita predio se llama al sitofono no contestan se llama al celular y no se logra comunicación con el cliente Nos comunicamos con asiste y la suspenden por incumplimiento TICKET 1592282 POR
+
+orden 155769752 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente  tk I1592291  ,L1592297 observación sin tk de linea de rescate valido pendiente enrutar 
+
+
+
+
+
+
+
+
+  
+---------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+
+06 :32 :16
+      125445  
+---------------------------------------------------------------------------
+06 :32 :40
+      6565656  
+---------------------------------------------------------------------------
+06 :35 :01
+      5656565  
+---------------------------------------------------------------------------
+10 :44 :09
+    orden 152555446 tec ELKIN ANDRES DIAZ ,se valida motivo de suspensión Cliente solicita reagendar  tk A1592692 observación 29/05/2020 07:00:00 a.m
+------------------------------------------------------------------------------------------
+
+orden 66439686 tec YEFERSON ISNER MURILLO ,se valida motivo de suspensión Orden de trabajo en ejecución. observación pendiente de migración de ba petición 155547851 pendiente retomar y solución
+------------------------------------------------------------------------------------------
+
+orden 66443539 tec RODRIGO OBREGON ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación se enruta para una hora atender 
+------------------------------------------------------------------------------------------
+
+orden 155784614 tec WILLIAM JAVIER SARRIA ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente  tk I1592851 observación CERRADA no tiene contacto con cliente se le indica suspensión
+------------------------------------------------------------------------------------------
+
+
+
+
+  
+---------------------------------------------------------------------------
+13 :38 :27
+  155781445 tec MIGUEL ANGEL VIDAL   motivo Incumplimiento de cita por parte del cliente tk  S1592934 CERRADA observaciones tecnico indica que no logra contacto con el cliente valido a los numeros de contacto pero no fue posible se suspende por incumplimiento
+------------------------------------------------------------------------------------------
+
+orden 155701457 tec JOHN LEDER PALACIOS  motvo Incumplimiento de cita por parte del cliente tk SFJ1592998 CERRADA TTME COMUNICO AL TEL3182473039 APAGADO 3058520947  HABLA EL ESPOSO INDICA QUE TOCA PROCESO CON TT INDCA QUE TIENE TEL APAGADO INCUMPLIMIENTO POR CLIETE
+------------------------------------------------------------------------------------------ 
+
+orden 66443547 tec JOHN ALEJANDRO BETANCOURT ,se valida motivo de suspensión observación Solicitud del cliente se enruta para tec atender de 2 30 o 3 pm
+------------------------------------------------------------------------------------------
+
+orden 6000000017963 tec JOHN ALEJANDRO BETANCOURT ,se valida motivo de suspensión Solicitud del cliente  observación intentamos comunicacion con la linea 022260783 para poder validar como quedó funcionando el servicio esta hasta las 2 pendiente 
+------------------------------------------------------------------------------------------
+
+orden 155785782 tec RICARDO ALONSO JIMENEZ ,se valida motivo de suspensión Orden de trabajo en ejecución. observación pendiente materiales para continuar indican retomar en la tarde
+------------------------------------------------------------------------------------------ 
+
+orden 6000000017689 tec VICTOR FABIAM BEJARANO ,se valida motivo de suspensión Cliente ausente.  observación intentamos comunicacion con la linea 02304955 no existe numero pendiente busqueda de numero para nueva comunicacion 
+------------------------------------------------------------------------------------------
+
+orden 6000000018158 tec JESUS ANTONIO GUERRA ,se valida motivo de suspensión Pendiente respuesta Asistec
+ tk  4766 954 observación pendiente solución orden abierta
+------------------------------------------------------------------------------------------ 
+
+orden 6000000017941 tec JUAN FELIPE JARAMILLO ,se valida motivo de suspensión Pendiente respuesta Asistec
+ tk B4767466 observación pendiente tk abierto 
+------------------------------------------------------------------------------------------
+
+66442891 tec RODOLFO VALENCIA Lluvia necesario subir a poste pendiente retomar m,as tarde 
+------------------------------------------------------------------------------------------
+
+orden 66444573 tec YEFERSON ISNER MURILLO ,se valida motivo de suspensión Pendiente respuesta Asistec observación migración por cancelación de ip fijas la orden fue cancelada y se reverso tk B4767558 cerrado pendiente retomar con autorizacion de supervisor de zona
+------------------------------------------------------------------------------------------
+
+orden 6000000018370 tec GUILLERMO ALBERTO RAMIREZ ,se valida motivo de suspensión Pendiente respuesta Asistec  tk B4767541 observación pendiente abierta 
+------------------------------------------------------------------------------------------
+
+orden 6000000018030 tec JESUS ANTONIO GUERRA ,se valida motivo de suspensión  Cliente ausente. observación nos comuni9camos ala linea 3163188166 suena ocupado pendiente comunicacion 
+ 
+  
+---------------------------------------------------------------------------

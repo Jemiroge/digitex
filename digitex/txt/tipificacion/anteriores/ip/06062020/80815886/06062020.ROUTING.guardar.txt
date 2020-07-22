@@ -1,0 +1,33 @@
+
+10 :57 :22 
+JAIME DEJESUS CASTAEDA	66473048	archivo sebastian 
+JAIME DEJESUS CASTAEDA	66472321	archivo sebastian 
+JOSE JULIAN LONDONO	66471335	archivo sebastian 
+JOSE JULIAN LONDONO	66472389	archivo sebastian 
+JOSE JULIAN LONDONO	66472365	archivo sebastian 
+JOSE JULIAN LONDONO	66472443	archivo sebastian 
+JOSE JULIAN LONDONO	66473886	pendiente 
+JOSE JULIAN LONDONO	66474348	pendiente 
+JOSE JULIAN LONDONO	66474885	pendiente 
+LUIS EMILIO MONTOYA	66468279	archivo sebastian 
+LUIS EMILIO MONTOYA	66470878	archivo sebastian 
+LUIS EMILIO MONTOYA	66471416	archivo sebastian 
+LUIS EMILIO MONTOYA	66471538	archivo sebastian 
+LUIS EMILIO MONTOYA	66472663	archivo sebastian 
+LUIS EMILIO MONTOYA	66473063	archivo sebastian 
+LUIS EMILIO MONTOYA	66473362	pendiente 
+JESUS ANTONIO GUERRA	6E+12	archivo sebastian 
+JESUS ANTONIO GUERRA	6E+12	archivo sebastian 
+JESUS ANTONIO GUERRA	6E+12	archivo sebastian 
+JESUS ANTONIO GUERRA	6E+12	archivo sebastian 
+JESUS ANTONIO GUERRA	6E+12	archivo sebastian 
+CESAR AUGUSTO CHAPARRO	6E+12	archivo sebastian 
+CESAR AUGUSTO CHAPARRO	6E+12	archivo sebastian 
+CESAR AUGUSTO CHAPARRO	6E+12	archivo sebastian 
+JUAN CAMILO VELEZ	6E+12	archivo sebastian 
+JUAN SEBASTIAN CAICEDO	6E+12	archivo sebastian 
+------------------------------------------------------------------------------------------
+
+
+ 
+---------------------------------------------------------------------------

@@ -1,0 +1,540 @@
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 13 :53 :19
+movimiento:155513736  ANDRES FELIPE VILLAQUIRAN  Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 13 :53 :19
+155474504 ELKIN ANDRES DIAZ Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 13 :53 :19
+66405990 JUAN CARLOS VALENCIA Retraso en el cierre de la orden, informe para ajuste de tiempo, se valida técnico sin gestión
+------------------------------------------------------------------------------------------
+
+creado día 19 mes 05 año 2020 hora: 14 :10 :30
+movimiento: 11111111111  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :11 :33
+movimiento: 55555555555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :20 :17
+movimiento: 155496257 BRAYAN ARCINIEGAS  eecc katerine quinchia  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :23 :24
+movimiento:    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :26 :13
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :27 :34
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :30 :25
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :31 :45
+suspensión:66405118 JOSE BERTULFO HINCAPIE motivo Solicitud del cliente Usuario recibe la visita a las 4 pm se enruta par las 4 pm a solicitud cliente 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :34 :34
+movimiento: 6666666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :35 :25
+movimiento: 666666666666666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :36 :29
+movimiento: yyyyyyyyyyyyyyyyyyy  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :38 :04
+movimiento:m1 = Or __ Tec __ eecc __  mover a xx posición  , 
+m2 = Or __ Tec __ eecc __  mover despues de la iniciada ,
+m3 = Or __ Tec __ motivo actividad completada de acuerdo al lineamiento
+m4 = de apoyo sin zonas Cargadas  
+m5 = de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades  
+ jjjjjjjjjjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :39 :31
+movimiento: 666666666666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :40 :46
+movimiento: hhhhhhhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :43 :33
+movimiento:MOVIMIENTO DE ORDEN 666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :44 :46
+movimiento:MOVIMIENTO DE ORDEN 66666666666666666666666663333333333333  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :46 :35
+movimiento: 66666666666666666666666fffffffffffffff  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :49 :32
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :51 :10
+movimiento: 155354173 esta tambien dejala de primera para andres felipe villaquiran eecc gisela marulanda   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :55 :30
+movimiento: 155496257 BRAYAN ARCINIEGAS Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha La CTO 8-26-05 se encuentra saturada se solicita ampliación de CTO  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :58 :12
+suspensión:66409000 EDWARD MAPAYO Inconveniente de ingreso por cuarentena se intenta comunicación con la linea  3172327090 el cual no tenemos contacto se suspende en agendador 
+    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 14 :59 :51
+movimiento: 155462949 movamos esta para kenne brandon garces eecc gisela marulanda   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :02 :42
+movimiento: 666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :04 :43
+movimiento: 155507611 JOHN LEDER PALACIOS Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Se quiebra porque la CTO asignada se encuentra saturada por lo tanto no se puede efectuar la instalación
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :06 :36
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :10 :49
+ajuste: 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :12 :15
+movimiento: 66400907 JOSE JAIDERME OQUENDO Retraso en el cierre de la orden, informe para ajuste de tiempo de parte del contratista, se valida técnico sin gestión  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :21 :01
+movimiento:    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 15 :25 :30
+suspensión:152361203 MARCOS LEANDRO MOSQUERA motivo suspensión  Cliente solicita reagendar tk L1587355 estado abierta tt solicita reagendar se llama al 3154877883 contesta (esposo) OSCAR informa solicita reagendar para el dia sabado 23 mayo jornada PM 
+   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :00 :39
+suspensión:66411315 JOHN LEDER PALACIOS motivo Solicitud del cliente intentamos comunicarnos a la linea 3233665462 sin contacto pendiente validación o envio bucket 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :02 :27
+movimiento:MOVIMIENTO DE ORDEN 66410015 JUAN CARLOS VALENCIA motivo suspensión Orden de trabajo en ejecución. pendiente retomar con apoyo la orden 
+
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :05 :02
+suspensión:155462949 KENNE BRANDON GARCES motivo Incumplimiento de cita por parte del cliente tk S1587404 Estado CERRADA	 tecnico indica que no logra contacto con el cliente valido a los números de contacto pero no fue posible se suspende por incumplimiento
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :32 :15
+MOVIMIENTO DE ORDEN : 
+
+154932808 JUAN CARLOS RODRIGUEZ mañana am  eecc gisela marulanda 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :32 :23
+SUSPENSIÓN :66401375   ALAN FERNEY CARABALI  motivo Orden de trabajo en ejecución. para cancelación por ser una avería que se atendió
+------------------------------------------------------------------------------------------
+
+66404339 ANDRES FELIPE VILLAQUIRAN  Cliente ausente. se intenta comunicación a la linea 3137218355 la cual no tenemos contacto se suspende en agendador por doble franja  
+ ------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :32 :33
+movimiento:    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :32 :37
+movimiento:    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :35 :49
+movimiento:    
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :49 :25
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :08
+MOVIMIENTO DE ORDEN : lllll  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :26
+MOVIMIENTO DE ORDEN :   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :29
+AJUSTE DE TIEMPO :lllllllllllllllllll 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :34
+SUSPENSIÓN :llllllllllllllllll  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :35
+ROUTING :llllllllllllllll  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :54 :39
+ASIGNACIÓN :lllllllllllllllllllllll  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 16 :55 :06
+MOVIMIENTO DE ORDEN : hhhhhhhhhhhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :01 :32
+MOVIMIENTO DE ORDEN : 2222222222222222222  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :01 :54
+MOVIMIENTO DE ORDEN : 2222222222222222  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :10 :24
+SUSPENSIÓN :66405051 JOHN LEDER PALACIOS motivo Orden de trabajo en ejecución. se retoma el día de mañana 
+   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :12 :29
+AJUSTE DE TIEMPO :155490411 MIGUEL ANGEL MARTINEZ Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :13 :43
+MOVIMIENTO DE ORDEN : 555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :14 :27
+MOVIMIENTO DE ORDEN : 555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :14 :32
+MOVIMIENTO DE ORDEN : 222222222222222  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :14 :51
+MOVIMIENTO DE ORDEN : 222222222222222  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :14 :57
+MOVIMIENTO DE ORDEN : 366  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :15 :22
+MOVIMIENTO DE ORDEN : 366  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :15 :28
+MOVIMIENTO DE ORDEN : kkkkkkkkkkkkkkkkkkk  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :17 :06
+MOVIMIENTO DE ORDEN : jjjjjjjjjjjjjjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :17 :38
+MOVIMIENTO DE ORDEN : jjjjjjjjjjjjjjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :28 :08
+MOVIMIENTO DE ORDEN : 66408546 JANIER BEDOYA cierre de ruta se envia al bucket  eecc jimena paz
+------------------------------------------------------------------------------------------
+66408593 JANIER BEDOYA cierre de ruta se envia al bucket  eecc jimena paz
+------------------------------------------------------------------------------------------
+
+66410762 JUAN STEBAN MARTINEZ cierre de ruta se envia al bucket eecc jimena paz
+------------------------------------------------------------------------------------------
+66412775 YEFERSON ISNER MURILLO cierre de ruta se envia al bucket eecc jimena paz
+------------------------------------------------------------------------------------------
+66408161 RODOLFO VALENCIA cierre de ruta se envia al bucket eecc jimena paz
+------------------------------------------------------------------------------------------
+
+66412957 LINO MAZUERA  cierre de ruta se envia al bucket eecc betsy garcia
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :32 :39
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :36 :57
+SUSPENSIÓN :orden 152154992 tec ISIDRO FRANCO,se valida motivo de suspensión Pendiente respuesta Asistec
+observación Fue escalada a segundo nivel por Cristian con el tk4743787 se suspende en agendador   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 17 :39 :39
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :22 :57
+MOVIMIENTO DE ORDEN : 155496730 se habiliota orden trabajo en ejecución con botón suspender para que continué mañana tec requerido se envia al bucket eecc gisela marulanda 
+155496730  moviemineto para que continue mañna te requerido eecc gisela marulanda   
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :23 :54
+MOVIMIENTO DE ORDEN : 454444444545  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :52 :22
+MOVIMIENTO DE ORDEN : 4  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :55 :14
+MOVIMIENTO DE ORDEN : ghghghg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :55 :30
+MOVIMIENTO DE ORDEN : 55555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :55 :57
+MOVIMIENTO DE ORDEN : 4444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :57 :36
+MOVIMIENTO DE ORDEN : 233  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :58 :15
+MOVIMIENTO DE ORDEN : 233  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 18 :58 :23
+MOVIMIENTO DE ORDEN : 233  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :00 :40
+MOVIMIENTO DE ORDEN : 233  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :00 :48
+MOVIMIENTO DE ORDEN : 4444444444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :02 :17
+MOVIMIENTO DE ORDEN : 4444444444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :02 :43
+MOVIMIENTO DE ORDEN : fgfgggggggggggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :03 :22
+MOVIMIENTO DE ORDEN : 45444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :03 :52
+MOVIMIENTO DE ORDEN : 44444444444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :04 :27
+MOVIMIENTO DE ORDEN : 44444444444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :05 :08
+MOVIMIENTO DE ORDEN : jjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :05 :27
+MOVIMIENTO DE ORDEN : 44444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :05 :41
+MOVIMIENTO DE ORDEN : 44444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :06 :41
+MOVIMIENTO DE ORDEN : 4444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :06 :56
+MOVIMIENTO DE ORDEN : 4444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :07 :16
+MOVIMIENTO DE ORDEN : 5555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :07 :21
+AJUSTE DE TIEMPO :5555555555555555555555 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :07 :28
+MOVIMIENTO DE ORDEN : 5555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :08 :08
+MOVIMIENTO DE ORDEN : 4444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :08 :36
+MOVIMIENTO DE ORDEN : 4444444444444  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :08 :43
+MOVIMIENTO DE ORDEN : ooooooooooooooooooo  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :08 :59
+MOVIMIENTO DE ORDEN : ooooooooooooooooooo  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :09 :07
+MOVIMIENTO DE ORDEN : hjjjjjjjjjjjjjjjjjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :09 :14
+MOVIMIENTO DE ORDEN : hjjjjjjjjjjjjjjjjjjjjjjjjjj  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :13 :52
+MOVIMIENTO DE ORDEN : 3232323232323232323232323232  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :14 :25
+MOVIMIENTO DE ORDEN : gfjhjhjhjhjhjhjhjhjhjhjhf  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :14 :56
+MOVIMIENTO DE ORDEN : gfjhjhjhjhjhjhjhjhjhjhjhf  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :15 :41
+MOVIMIENTO DE ORDEN : ggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :16 :31
+MOVIMIENTO DE ORDEN : ggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :16 :38
+MOVIMIENTO DE ORDEN : ghgg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :16 :50
+MOVIMIENTO DE ORDEN : ghgg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :17 :17
+MOVIMIENTO DE ORDEN : ghgg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :17 :23
+MOVIMIENTO DE ORDEN : 55555555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :17 :46
+MOVIMIENTO DE ORDEN : 55555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :18 :21
+MOVIMIENTO DE ORDEN : ffffffffff  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :26 :29
+MOVIMIENTO DE ORDEN : hhhhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :26 :38
+MOVIMIENTO DE ORDEN : ddddddddddd  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :27 :00
+MOVIMIENTO DE ORDEN : ddddddddddd  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :27 :04
+MOVIMIENTO DE ORDEN : ddddddddddd  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :27 :31
+MOVIMIENTO DE ORDEN : ddddddddddd  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :28 :58
+MOVIMIENTO DE ORDEN : 333333333333333333333  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :33 :29
+MOVIMIENTO DE ORDEN : gggggggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :43 :13
+MOVIMIENTO DE ORDEN : gggggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :43 :39
+MOVIMIENTO DE ORDEN : gggggggggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :46 :57
+MOVIMIENTO DE ORDEN : fffffffffffffffff  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :47 :51
+MOVIMIENTO DE ORDEN : gggggggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :50 :19
+MOVIMIENTO DE ORDEN : gggggggggg  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :52 :11
+MOVIMIENTO DE ORDEN : rrrrrrrrrrrrrrrrrrrrrr  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :56 :21
+MOVIMIENTO DE ORDEN : fffffffffffff  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :58 :25
+MOVIMIENTO DE ORDEN : hhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 19 :58 :45
+MOVIMIENTO DE ORDEN : hhhhhhhhhhhhhhhhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 20 :03 :18
+MOVIMIENTO DE ORDEN : 6666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 20 :04 :10
+MOVIMIENTO DE ORDEN : 5555555555555  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 20 :59 :46
+MOVIMIENTO DE ORDEN : lllllllllllllllllllllllllllll  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 20 :59 :52
+AJUSTE DE TIEMPO :lllllllllllllllllllllllllllllllllllllllllll 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 20 :59 :57
+SUSPENSIÓN :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :00
+ROUTING :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :03
+ASIGNACIÓN :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :07
+ACTIVIDAD EECC INTERNAS :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :10
+BUSQUEDA TRABAJO EFEC :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+ 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :12
+BUSQUEDA TRABAJO NEG :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+ 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :15
+VALIDACION DE DATOS :r1 = Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+ 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :19
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :21
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :24
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :26
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :28
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :30
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :32
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :35
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :00 :37
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :42
+MOVIMIENTO DE ORDEN :    21:09:56  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :44
+AJUSTE DE TIEMPO :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :47
+SUSPENSIÓN :   21:09:56  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :49
+ROUTING :   21:09:56  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :51
+ASIGNACIÓN :   21:09:56  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :55
+ACTIVIDAD EECC INTERNAS :   21:09:56  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :57
+BUSQUEDA TRABAJO EFEC :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :10 :58
+BUSQUEDA TRABAJO NEG :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :01
+VALIDACION DE DATOS :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :03
+ : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :05
+ALMUERZO : 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :09
+AGENDAR :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :12
+AUTORIZACIONES :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :18
+INCUMPLIMIENTO EECC :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :21
+CIERRE DE RUTA :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :23
+HABILITAR BOTON SUSPENDER :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :11 :25
+COMPLETADAS :   21:09:56 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :14 :42
+ALMUERZO :ññññññññññññññññ 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :14 :45
+AGENDAR :ññññññññññññññññ 
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :21 :40
+MOVIMIENTO DE ORDEN : 66666666666666666666  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :37 :04
+MOVIMIENTO DE ORDEN : hhhhhhhhhhhhhhhhhh  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :39 :15
+ACTIVIDAD EECC INTERNAS :  
+---------------------------------------------------------------------------
+creado día 19 mes 05 año 2020 hora: 21 :40 :41
+MOVIMIENTO DE ORDEN :   
+---------------------------------------------------------------------------

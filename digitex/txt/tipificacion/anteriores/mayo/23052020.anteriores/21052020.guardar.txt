@@ -1,0 +1,267 @@
+
+creado día 21 mes 05 año 2020 hora: 11 :36 :53
+MOVIMIENTO DE ORDEN : 6666666666666  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 14 :11 :45
+AJUSTE DE TIEMPO :155149549 MIGUEL ANGEL MARTINEZ Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista. eecc jimena paz
+------------------------------------------------------------------------------------------
+
+155461051 JUAN STEBAN MARTINEZ Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+
+00000 LINO MAZUERA Retraso en el cierre de la orden almuerzo  ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------
+
+00000 JOHANNY DALBERTO MONTALVO Retraso en el cierre de la orden almuerzo  ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------
+
+
+00000 JOSE BERTULFO HINCAPIE Retraso en el cierre de la orden otros ,pendiente  para ajuste de tiempo por parte de la contratista. eecc sandy lorena serrano
+------------------------------------------------------------------------------------------
+
+00000 KENNE BRANDON GARCES Retraso en el cierre de la orden almuerzo  ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------
+
+
+ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 14 :14 :25
+SUSPENSIÓN :orden 155564659  tec ISIDRO FRANCO ,se valida motivo de suspensión Falla masiva plataformas tk REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+
+orden 155548323 tec MARCOS LEANDRO MOSQUERA ,se valida motivo de suspensión Falla aplicativos soporte tk REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 14 :15 :08
+VALIDACION DE DATOS :66416558 Falla masiva plataformas YOHON EDISON 
+
+152582404 INCUMPLIMIENTO CITA  YOHON EDISON 
+
+155582007 Falla masiva plataformas YOHON EDISON 
+
+155590295 Falla masiva plataformas YOHON EDISON 
+
+155586028 Falla masiva plataformas YOHON EDISON 
+
+66415782  Daño Masivo MARIA DEL PILAR HURTADO
+
+155458624 Incumplimiento de cita por parte del cliente MARIA DEL PILAR HURTADO
+
+66416632 Falla masiva plataformas MARIA DEL PILAR HURTADO
+ 
+---------------------------------------------------------------------------
+
+creado día 21 mes 05 año 2020 hora: 14 :27 :19
+AJUSTE DE TIEMPO :00000 ISAIAS HURTADO Retraso en el cierre de la orden almuerzo ,pendiente  para ajuste de tiempo por parte de la contratista.  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 14 :58 :52
+MOVIMIENTO DE ORDEN : 66418503 JHON LEDER PALACIOS eecc katerine quinchia apoyo 
+de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades 
+------------------------------------------------------------------------------------------
+
+66415553 MIGUEL ANGEL VIDAL eecc katerine quinchia de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades
+------------------------------------------------------------------------------------------
+
+66418051 JOHANNY DALBERTO MONTALVO  eecc katerine quinchia de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades
+------------------------------------------------------------------------------------------
+
+66418899 para yeferson isner murillo en primera posicion eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+66419204 ALAN FERNEY CARABALI  eecc sandy serrano
+------------------------------------------------------------------------------------------
+
+66419475  ALAN FERNEY CARABALI  eecc sandy serrano
+------------------------------------------------------------------------------------------
+
+66418889  ISIDRO FRANCO  eecc sandy serrano de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 15 :47 :15
+AJUSTE DE TIEMPO :155549508 BRAYAN ARCINIEGAS Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno esperando solución plataformas
+------------------------------------------------------------------------------------------
+66415099 JANIER BEDOYA Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+eecc jimena paz   
+------------------------------------------------------------------------------------------
+
+66414955 YEFERSON ISNER MURILLO Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+
+00000 JUAN GUILLERMO RESTREPO Retraso en el cierre de la orden almuerzo ,pendiente  para ajuste de tiempo por parte de la contratista. eecc jimena paz
+------------------------------------------------------------------------------------------
+
+155549508 BRAYAN ARCINIEGAS Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+66418889 ISIDRO FRANCO Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+
+155549508 BRAYAN ARCINIEGAS Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista.
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 15 :55 :04
+SUSPENSIÓN :orden 66416190 tec  ,se valida motivo de suspensión Orden de trabajo en ejecución t observación se supende para apoyo con otro tec
+------------------------------------------------------------------------------------------
+
+orden 155572026 tec ISIDRO FRANCO ,se valida motivo de suspensión Falla masiva plataformas
+REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden 154289006 tec MARCOS LEANDRO MOSQUERA,se valida motivo de suspensión Falla masiva plataformas
+REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden 155149549 tec MIGUEL ANGEL MARTINEZ se valida motivo de suspensión Falla masiva plataformas tk 
+REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden  66418889 tec ISIDRO FRANCO,se valida motivo de suspensión Orden de trabajo en ejecución. observación pendiente solucion y cierre
+------------------------------------------------------------------------------------------
+
+orden 155548084 tec KENNE BRANDON GARCES,se valida motivo de suspensión Falla masiva plataformas  tk REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden 66415099 tec JANIER BEDOYA ,se valida motivo de suspensión Falla masiva plataformas  tk REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden 155572375 tec MARCOS LEANDRO MOSQUERA ,se valida motivo de suspensión Falla masiva plataformas
+ tk REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------
+
+orden 66415553 tec MIGUEL ANGEL VIDAL ,se valida motivo de suspensión Cliente ausente.observación se intenta comunicación a la linea  3012091805  sin contacto pendiente
+------------------------------------------------------------------------------------------
+
+orden 155549452 tec WILLIAM JAVIER SARRIA ,se valida motivo de suspensión Falla masiva plataformas
+ tk _REQ000001749530 observación A LA ESPERA DE SOLUCIÓN
+------------------------------------------------------------------------------------------   
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 16 :01 :33
+AUTORIZACIONES :154289006 MARCOS LEANDRO MOSQUERA se habilita boton suspender motivo falla masiva plataformas eecc gisela marulanda.
+------------------------------------------------------------------------------------------
+
+155548084 KENNE BRANDON GARCES se habilita boton suspender motivo falla masiva plataformas eecc gisela marulanda
+------------------------------------------------------------------------------------------
+155572026 ISIDRO FRANCO se habilita boton suspender motivo falla masiva plataformas eecc gisela marulanda
+------------------------------------------------------------------------------------------
+
+155572375 MARCOS LEANDRO MOSQUERA  se habilita boton suspender motivo falla masiva plataformas eecc gisela marulanda
+------------------------------------------------------------------------------------------
+
+155549452 WILLIAM JAVIER SARRIA se habilita boton suspender motivo falla masiva plataformas eecc gisela marulanda
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 16 :01 :56
+CIERRE DE RUTA :00000 JUAN GUILLERMO RESTREPO se finaliza para cierre de ruta eecc jimena paz 
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 16 :02 :26
+COMPLETADAS :Or 66414955 Tec YEFERSON ISNER MURILLO observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 16 :44 :09
+MOVIMIENTO DE ORDEN : 66415632 Aux  op Jennifer Lopez SOLICITA MOVIMENTO DE ORDEN  TEC REQUERIDO YULDOR ALEXANDER VALENCIA NIVELACION TRBJO
+------------------------------------------------------------------------------------------
+
+155548323 MARCOS LEANDRO MOSQUERA se enruta de nuevo para que suspende bien la orden con la causal correcta eecc gisela marulanda 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 16 :46 :02
+AJUSTE DE TIEMPO :155582371 ANDRES FELIPE VILLAQUIRAN Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+66418503 JOHN LEDER PALACIOS Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno 
+------------------------------------------------------------------------------------------
+
+00000 MIGUEL ANGEL MARTINEZ Retraso en el cierre de la orden almuerzo ,pendiente  para ajuste de tiempo por parte de la contratista. eecc katerine quinchia
+------------------------------------------------------------------------------------------
+ 
+155549508 BRAYAN ARCINIEGAS Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista.
+------------------------------------------------------------------------------------------
+
+66419052 KENNE BRANDON GARCES Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista eecc sandy serrano 
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 17 :29 :11
+CIERRE DE RUTA :or 66413553 tec RODOLFO VALENCIA se mueve orden al bucket ya que técnico cierra ruta  eecc  jimena paz
+
+Or 66415099  Tec JANIER BEDOYA se mueve orden al bucket ya que técnico cierra ruta  eecc  jimena paz
+
+or 66418467 tec JOSE JAIDERME OQUENDO se mueve orden al bucket ya que técnico cierra ruta  eecc   jimena paz
+
+Or 66418899 Tec YEFERSON ISNER MURILLO se mueve orden al bucket ya que técnico cierra ruta  eecc   jimena paz
+
+or 155582371 tec ANDRES FELIPE VILLAQUIRAN se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+
+or 155549508 tec BRAYAN ARCINIEGAS se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+
+or 152582404 tec ELKIN ANDRES DIAZ se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+
+or 151817640 tec ELKIN ANDRES DIAZ se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+
+or 155582007 tec ISAIAS HURTADO se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+ 
+or 155590295   tec JOHN LEDER PALACIOS se mueve orden al bucket ya que técnico cierra a la espera de solución req 
+
+or 66415782  tec RODRIGO OBREGON se mueve orden al bucket  al bucket ya que técnico cierra a la espera de solución req 
+
+or 155549452 tec WILLIAM JAVIER SARRIA se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+or 155458624 tec WILLIAM JAVIER SARRIA se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+or 66416632 tec JOSE BERTULFO HINCAPIE  se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+or 155548084 tec JKENNE BRANDON GARCES  se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+MARCOS LEANDRO MOSQUERA se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+MARCOS LEANDRO MOSQUERA se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+
+155149549 MIGUEL ANGEL MARTINEZ  se mueve orden al bucket al bucket ya que técnico cierra a la espera de solución REQ000001749530
+------------------------------------------------------------------------------------------
+
+
+ 
+
+ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 17 :31 :02
+AJUSTE DE TIEMPO :155509426 JUAN STEBAN MARTINEZ Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista.
+------------------------------------------------------------------------------------------
+
+66416875 RODOLFO VALENCIA Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista.
+------------------------------------------------------------------------------------------  
+
+66419204 ALAN FERNEY CARABALI Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista.
+------------------------------------------------------------------------------------------ 
+
+66416875 RODOLFO VALENCIA Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 17 :49 :38
+MOVIMIENTO DE ORDEN : Or 66413553 Tec RODOLFO VALENCIA eecc jimena paz mover a1 posición  , 
+------------------------------------------------------------------------------------------   
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 19 :14 :53
+SUSPENSIÓN :orden 66419475 tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Falla masiva plataformas tk REQ000001749530 observación  A LA ESPERA DE SOLUCIÓN
+---------------------------------------------------------------------------------------------------------------
+
+orden 66418899 tec YEFERSON ISNER MURILLO ,se valida motivo de suspensión Cliente ausente. observaciónse intenta  al numero 3183082195 el cual informa que al numero 3183082195 sin respuesta péndiente comunicación 
+------------------------------------------------------------------------------------------
+
+orden 151817640 tec ELKIN ANDRES DIAZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente tk S1588678 observación estado cerrrada indica que no puede recibir recibe es sabado en franja am se comunica a la linea 3182166210 llamada se va abuzon de voz la orden se suspende por incumplimiento
+------------------------------------------------------------------------------------------
+
+orden 66418467  tec JOSE JAIDERME OQUENDO ,se valida motivo de suspensión Solicitud del cliente  observación intentamos comuinicacion a la linea 3103749444 la cual no tenemos contacto pendiente bucket 
+------------------------------------------------------------------------------------------
+
+orden 155582371 tec ANDRES FELIPE VILLAQUIRAN ,se valida motivo de suspensión Falla masiva plataformas tk REQ000001749530 observación a la espera de solución 
+------------------------------------------------------------------------------------------
+
+
+orden 155509426  tec JUAN STEBAN MARTINEZ ,se valida motivo de suspensión Falla masiva plataformas  tk EQ000001749530 observación a la espera de solución
+------------------------------------------------------------------------------------------   
+---------------------------------------------------------------------------
+creado día 21 mes 05 año 2020 hora: 19 :21 :15
+QUIEBRE :orden 155554125 tec KENNE BRANDON GARCES ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Red secundaria saturada CTO 6-94-01 se encuentra saturada y al lado esta la CTO 5-94-01 también se encuentra saturada no hay como instalar el servicio 
+---------------------------------------------------------------------------

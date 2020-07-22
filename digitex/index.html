@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<title>ingreso</title>
+<head>
+ <meta charset="utf-8">
+<link REL="StyleSheet" HREF="../digitex/css/inicio.css?v" TYPE="text/css">
+<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+ <script src="../js/tipifica1.js"></script> 
+
+ 
+<!-- <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="Refresh" CONTENT="0;url=tipifica.html'">-->
+
+
+
+
+</head>
+<body class="tamano" background="img/inicio/407909.jpg" style="background-repeat: no-repeat;background-size: 100%">
+	
+<form method="post">
+		<h1>Usuario</h1><input type="text" name="usuario" id="usuario" pattern="([0-9]{6,12})" autofocus  required placeholder="escriba su usuario">
+
+<h1>Contraseña</h1><input type="password" name="contrasena" id="contrasena" required placeholder="escriba su contraseña">
+		<div>
+		    <button onclick=this.form.action="php/Usuario/mostrarUsuario.php">Entrar</button>
+		   <!--<button onclick=this.form.action="index/tipifica1.php">Entrar</button>-->
+		</div>
+</form>
+	
+<video src="" style="z-index:-1;" autoplay></video>
+
+</body>
+</html>

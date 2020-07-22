@@ -1,0 +1,62 @@
+
+10 :56 :58 
+  66464711 supender en agendador  motivo  OTRO Escalada analista eliuth garcia en seguimiento EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473723 supender en agendador  motivo  OTRO Escalada analista eliuth garcia en seguimiento EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473876 supender en agendador  motivo  OTRO Escalada analista eliuth garcia en seguimiento EECC David Botina
+------------------------------------------------------------------------------------------
+
+66474652 supender en agendador  motivo  OTRO Escalada analista eliuth garcia en seguimiento EECC David Botina
+------------------------------------------------------------------------------------------
+
+66473935 supender en agendador  motivo  OTRO Escalada analista eliuth garcia en seguimiento EECC David Botina
+------------------------------------------------------------------------------------------
+
+66472662 SUSPENDER  EN AGENDADORImposible acceso problemas de orden publico EECC David Botina
+------------------------------------------------------------------------------------------
+
+orden 66474227 tec JANIER BEDOYA ,se valida motivo Cliente ausente. intentamos comunicar a la linea 3206753123 la cuyal ingresa a buzon pendiente 
+------------------------------------------------------------------------------------------
+
+66474227 SUSPENDER  EN AGENDADOR PORFA Imposible acceso problemas de orden publico  quitar requerido EECC David Botina
+------------------------------------------------------------------------------------------
+
+66475013 tec  ALAN FERNEY CARABALI motivo Cliente ausente.intetamos comunicacion a la linea 0323908086, 3184906982, 3175956167 sin contacto pendiente 
+------------------------------------------------------------------------------------------
+
+156067441 tec ISIDRO FRANCO motivo Cliente solicita reagendar L1597952 estado cerrada  tk A1597952 se reagenda 08/06/2020 franja p.m
+------------------------------------------------------------------------------------------
+
+orden 66470558 tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Solicitud del cliente  observación Usuario indica que está disponible a las 10 de la mañana intentamos comunicacion a la linea 3007518056 indica pasar a las 10
+------------------------------------------------------------------------------------------
+
+orden 153113997 tec JOHANNY DALBERTO MONTALVO ,se valida motivo de suspensión Cliente solicita reagendar   tk A1597982 observación CERRADA Tecnico informa que el cliente nos puede atender para el 11 de junio en la maNana, me comunico con la sra GUERRERO CHAVEZ CONNY MICHELLE confirma cedula 1144135976 y vista para el dia jueves
+
+------------------------------------------------------------------------------------------
+orden 152366190  tec JOHANNY DALBERTO MONTALVO ,se valida motivo de suspensión Cliente solicita reagendar  tk A1597944 observación CERRADA fecha de instalacion 07/06 en la jornada AM
+------------------------------------------------------------------------------------------
+
+orden 66469591 tec JOSE BERTULFO HINCAPIE ,se valida motivo Pendiente respuesta Asistec Cristian Sánchez genera tikect de escalamiento a segundo nivel b487377 pendiente solución 
+------------------------------------------------------------------------------------------
+
+orden 66469861 tec JOSE JAIDERME OQUENDO ,se valida motivo de suspensión Requiere precalificación.   observación la caja 19186 par 8 del armario 1001 problemas de estabilidad
+------------------------------------------------------------------------------------------
+
+orden 66474566 tec CARLOS ANDRES CORTES ,se valida motivo de suspensión Cliente ausente.observación intentamos comunicacion con la linea 3122395671 al cual no tenemos respuesta pendiente 
+------------------------------------------------------------------------------------------
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+---------------------------------------------------------------------------

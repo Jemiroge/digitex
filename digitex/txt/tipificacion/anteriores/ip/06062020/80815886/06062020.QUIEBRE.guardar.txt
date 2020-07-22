@@ -1,0 +1,54 @@
+
+11 :14 :45 
+    orden 156132509 tec JANIER BEDOYA ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Se realiza quiebre tecnico por red secundaria saturada en el sector, caja 1327 del armario 3061 sin tener cajas cercanas para realizar instalación
+------------------------------------------------------------------------------------------
+
+orden 156174973 tec ANDRES FELIPE VILLAQUIRAN ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Cto saturada
+------------------------------------------------------------------------------------------
+
+orden 156144320 tec WILLIAM JAVIER SARRIA ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA
+------------------------------------------------------------------------------------------
+
+orden 156068282 tec RODOLFO VALENCIA ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Cajas 324-325/1032
+------------------------------------------------------------------------------------------
+
+156140787 tec RODOLFO VALENCIA ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Cajas 324-325/1032
+------------------------------------------------------------------------------------------
+
+orden 156139342 tec MARCOS LEANDRO MOSQUERA ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha La cto está saturada no tenemos más serca autorización de quiebre por Carlos Delgado 
+------------------------------------------------------------------------------------------
+
+orden 156135496 tec JOSE JAIDERME OQUENDO ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha NO HAY RED SECUNDARIA Observaciones No Realizado Banda Ancha No hay red segundaria el sector
+------------------------------------------------------------------------------------------
+
+orden 156132945 tec JOSE JAIDERME OQUENDO ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha NO HAY RED SECUNDARIA Observaciones No Realizado Banda Ancha No hay red segundaria en el setor
+------------------------------------------------------------------------------------------
+
+orden 156148761 tec JOSE JAIDERME OQUENDO ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA
+------------------------------------------------------------------------------------------
+
+orden 156199125 tec JOSE JAIDERME OQUENDO ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED PRIMARIA SATURADA Observaciones No Realizado Banda Ancha Red primaria saturada armario 1001
+------------------------------------------------------------------------------------------
+
+
+orden 156201672  tec YEFERSON ISNER MURILLO ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda AnchaRED SECUNDARIA SATURADa saturada cajas 1329-1328
+------------------------------------------------------------------------------------------
+
+orden 156187707 tec YEFERSON ISNER MURILLO  ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Red secundaria saturada Cajas 215/761/ 211/212
+------------------------------------------------------------------------------------------
+
+orden 156131844 tec JOSE JAIDERME OQUENDO ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED PRIMARIA SATURADA Observaciones No Realizado Banda Ancha Red primaria saturada armario 1001 
+---------------------------------------------------------------------------
+12 :43 :37 
+    orden 156133770 tec BRAYAN ARCINIEGAS ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha La CTO 1-18-3 se encuentra saturada se solicita ampliación de CTO
+------------------------------------------------------------------------------------------
+
+orden 156084006 tec JUAN CARLOS RODRIGUEZ ,se valida motivo Text: Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Cto saturada hay una cto con dos hilos libres para 1 y 3 cto 1 33 04
+------------------------------------------------------------------------------------------
+
+orden 156129906 tec BRAYAN ARCINIEGAS ,se valida motivo Text: Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha La CTO 1-33-2 se encuentra saturada se solicita ampliación de CTO
+------------------------------------------------------------------------------------------
+
+
+  
+---------------------------------------------------------------------------

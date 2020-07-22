@@ -1,0 +1,232 @@
+
+creado día 20 mes 05 año 2020 hora: 09 :11 :00
+ :   
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 09 :11 :04
+ :   
+---------------------------------------------------------------------------
+
+creado día 20 mes 05 año 2020 hora: 09 :31 :04
+MOVIMIENTO DE ORDEN : 6666666666  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 09 :31 :47
+MOVIMIENTO DE ORDEN : 6666666666666  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 09 :32 :07
+AJUSTE DE TIEMPO :666666666 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 13 :26 :31
+AJUSTE DE TIEMPO :155555299 JOHN LEDER PALACIOS Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 13 :28 :04
+AJUSTE DE TIEMPO :155567396 ELKIN ANDRES DIAZ Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 13 :29 :41
+AJUSTE DE TIEMPO :155434173 RODRIGO OBREGON Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 13 :35 :22
+AJUSTE DE TIEMPO :66412410 RODOLFO VALENCIA Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 14 :19 :30
+COMPLETADAS :Or 66405076 Tec LINO MAZUERA observación completada de acuerdo al lineamiento 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 14 :20 :36
+AJUSTE DE TIEMPO :66413660 ALAN FERNEY CARABALI Retraso en el cierre de la orden, informe para ajuste de tiempo, se valida técnico sin gestión 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 14 :50 :12
+MOVIMIENTO DE ORDEN : 66416260 se la puedes poner en pruimera posicion a janier bedoya eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+155463327 esta la mueves despues de almuerzo a juan esteban martinez
+eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+155587078 MIGUEL VIDAL ANTES DE LA AVERIA  eec katerine quinchia   
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 14 :50 :44
+AJUSTE DE TIEMPO :66411206 JOSE JAIDERME OQUENDO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 14 :51 :25
+SUSPENSIÓN :orden 152584730 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Pendiente respuesta Asistec  tk abierto B4745684 152584730 4405525 7740968 observación escalado se suspende en agendador para dar solución 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :05 :37
+MOVIMIENTO DE ORDEN : 155496393  agendalas  pm se las pones en ultima posición a jose jaiderm orquendo eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+155496399 agendalas  pm se las pones en ultima posición a jose jaiderm orquendo eecc jimena paz 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :07 :15
+COMPLETADAS :Or 66415945 Tec JOSE BERTULFO HINCAPIE observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66411471 Tec JANIER BEDOYAobservación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+Or 66412410 Tec RODOLFO VALENCIAobservación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66411926 Tec YEFERSON ISNER MURILLO observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :24 :05
+AJUSTE DE TIEMPO :155567396 ELKIN ANDRES DIAZ Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------
+
+155566772 ISAIAS HURTADO Retraso en el cierre de la orden, informe para ajuste de tiempo, motivo del técnico instalación y configuración de equipos
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :26 :12
+SUSPENSIÓN :orden 66412767  tec JOSE BERTULFO HINCAPIE ,se valida motivo de suspensión Cliente ausente.  observación se intenta comunicación con la linea 3185628623 la cual ingresa a buzón se suspoende en agendador por doble franja 
+------------------------------------------------------------------------------------------
+
+orden 66413355 tec JOSE BERTULFO HINCAPIE ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación intentamos comunicación con la linea 3148902370 sin contacto pendiente llamar 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :27 :09
+QUIEBRE :Or 155562592 Tec MIGUEL ANGEL VIDAL Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA
+------------------------------------------------------------------------------------------
+
+orden 155587078 tec MIGUEL ANGEL VIDAL ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 15 :33 :28
+AGENDAR :155496393  agendalas  pm   eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+155496399 agendalas  pm  eecc jimena paz jimena paz
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 16 :55 :07
+MOVIMIENTO DE ORDEN : 152366612  movamos esta para andres felipe villaquiran eecc gisela marulanda 
+------------------------------------------------------------------------------------------
+
+152693060  esta a tec miguel martinez eecc gisela marulanda 
+------------------------------------------------------------------------------------------
+
+  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 16 :56 :43
+AJUSTE DE TIEMPO :66415897 JOSE BERTULFO HINCAPIE Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+
+66416260 JANIER BEDOYA Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+155567700 ANDRES FELIPE VILLAQUIRAN Retraso en el cierre de la orden, informe para ajuste de tiempo, motivo del técnico instalación y configuración de equipos
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 17 :03 :20
+SUSPENSIÓN :Or 66414065 Tec MIGUEL ANGEL VIDAL motivo de suspension Cliente ausente. se intenta comunicación a la linea 320530992
+------------------------------------------------------------------------------------------
+
+orden 66411599  tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Solicitud del cliente   observación se enruta en ultima pos intentamos comunicación con usauario sin contacto 
+------------------------------------------------------------------------------------------
+
+orden 66414065 tec MIGUEL ANGEL VIDAL ,se valida motivo de suspensión Cliente ausente.observación no tenemos mas numeros de contacto se susoende en aganedador por doble franja 
+------------------------------------------------------------------------------------------
+
+orden 66414010 tec JOSE BERTULFO HINCAPIE,se valida motivo de suspensión Solicitud del cliente observación intentamos comunicacion a la linea 3104254232 la cual no tenemos contacto pendiente enviar a l bucket para retomar malana
+------------------------------------------------------------------------------------------
+
+orden 66415897 tec JOSE BERTULFO HINCAPIE,se valida motivo de suspensión Solicitud del cliente  observación se inetenta comnicacion con la linea 3103759414 el cual no tenemos contacto buzon de voz se esta pendiente envio bucket para agendar mañana 
+------------------------------------------------------------------------------------------
+
+orden 153058175 tec KENNE BRANDON GARCES ,se valida motivo de suspensión Cliente solicita reagendar tk A1588052 observación informa solicita reagendar para el dia jueves 21 mayo jornada AM
+------------------------------------------------------------------------------------------
+
+orden 153449153 tec KENNE BRANDON GARCES ,se valida motivo de suspensión Cliente solicita reagendar tk A1588068  observación DE IR // se re-ageanda la visita para el dia Jueves 21 de mayo en franja pm
+------------------------------------------------------------------------------------------
+
+
+orden 155462949 tec MARCOS LEANDRO MOSQUERA ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk SFJ1588076 observación ME COMUNICO AL NUEMRO 3113072427 APAGADO, AL NUMERO 3003503446 CONTESTA EL HIJO INFORMA QUE NO ESTA EN EL PREDIO, AL NUMERO 5151846 TONO CONTINUO
+------------------------------------------------------------------------------------------
+
+orden 155554605 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Cliente solicita reagendar  tk A1588046 observación es para reagendar debido a que el usiario recibe 23-05-2020 dia sabado
+------------------------------------------------------------------------------------------
+
+orden 155569940 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1588063 observación EL CLIENTE NO LO PUEDE ATENDER SE VERFICA SI TIENE DIA DE REAGENDA PERO EL TECNICO NO VALIDA INFORMACION SE SUSPENDE LA ORDEN POR NO CONTACTO
+------------------------------------------------------------------------------------------
+
+orden 152693060 tec MIGUEL ANGEL MARTINEZ ,se valida motivo de suspensión Cliente solicita reagendar
+ tk A1588083 observación ECNICO SOLICITA REAGENDAR GESTIONA ORDEN PARA EL DIA 22 de mayo 2020 PM
+------------------------------------------------------------------------------------------
+
+orden ANDRES FELIPE VILLAQUIRAN tec 152366612 ,se valida motivo de suspensión Inconveniente de ingreso por cuarentena  observación  iintentamos comunicacion a la linea 3208653445 la cual no tenemos contacto se suspende en agendador 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 17 :04 :14
+AUTORIZACIONES :152366612 ANDRES FELIPE VILLAQUIRAN se autoriza boton suspensión indica que son abuelitos que prefieren recibir despues de la cuarentena eecc gisela marulanda 
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 17 :08 :25
+MOVIMIENTO DE ORDEN : 66412221 EDWARD MAPAYO se mueve  bucket para cierre de ruta eecc gisela marulanda 
+------------------------------------------------------------------------------------------
+
+66414999 CARLOS ALBERTO SOLANO se mueve  bucket para cierre de ruta eecc gisela marulanda 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 17 :10 :47
+COMPLETADAS :Or 66413055 Tec ALAN FERNEY CARABALIobservación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 155567396 Tec ELKIN ANDRES DIAZobservación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66411002 Tec JUAN CARLOS VALENCIA observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+Or 155362180 Tec JOSE JAIDERME OQUENDO observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66410951 Tec YEFERSON ISNER MURILLO observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 155555299 Tec JOHN LEDER PALACIOS observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 18 :13 :33
+MOVIMIENTO DE ORDEN : 66417550 YEFERSON ISNER MURILLO se mueve  bucket para cierre de ruta eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+66408161 JANIER BEDOYA se mueve  bucket para cierre de ruta eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+66413625 JUAN STEBAN MARTINEZ se mueve  bucket para cierre de ruta eecc jimena paz 
+------------------------------------------------------------------------------------------
+
+66414144 LINO MAZUERA  se mueve  bucket para cierre de ruta eecc betsy garcia
+------------------------------------------------------------------------------------------
+
+66416129 LINO MAZUERA se mueve  bucket para cierre de ruta eecc betsy garcia
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 18 :14 :38
+AJUSTE DE TIEMPO :155586804 JOHANNY DALBERTO MONTALVO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+155504102 ISIDRO FRANCO Retraso en el cierre de la orden, informe para ajuste de tiempo, motivo del técnico instalación y configuración de equipos
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 18 :15 :48
+QUIEBRE :155496393 JOSE JAIDERME OQUENDO Quiebre Técnico Motivo No Realizado Banda Ancha NO HAY RED SECUNDARIA
+------------------------------------------------------------------------------------------
+
+155496399 JOSE JAIDERME OQUENDO Quiebre Técnico Motivo No Realizado Banda Ancha RED PRIMARIA SATURADA
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 20 :50 :24
+ALMUERZO :11111111 
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 20 :51 :15
+MOVIMIENTO DE ORDEN : gggggggggggggggg  
+---------------------------------------------------------------------------
+creado día 20 mes 05 año 2020 hora: 20 :53 :44
+MOVIMIENTO DE ORDEN :   
+---------------------------------------------------------------------------

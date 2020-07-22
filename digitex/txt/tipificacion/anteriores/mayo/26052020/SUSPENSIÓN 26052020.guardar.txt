@@ -1,0 +1,88 @@
+
+13 :11 :13
+155321457  CESAR TULIO LENIS Orden de trabajo en ejecución.se necesita un taladro pendiente apoyo 
+------------------------------------------------------------------------------------------
+
+orden 155557783 tec LUIS MIGUEL ERAZO ,se valida motivo de suspensión Solicitud del cliente observación intentamos comunicación con la linea 	3117679481 la cual no tenemos a contacto se enruta ya que técnico no ingresa observaciones 
+------------------------------------------------------------------------------------------
+
+orden 155714384 tec JHON FREDDY SOLARTE ,se valida motivo de suspensión Cliente solicita reagendar  tk A1590599 observación CERRADA SE REAGENDA PARA EL DIA 28/05/20 AM
+------------------------------------------------------------------------------------------
+
+orden 155639409 tec JOSE RAFAEL LOPEZ ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1590634  observación CERRADA TECNICO INDICA NO HAY NADIE EN EL PREDIO Y NO CONTESTA NUMERO DE CONTACTO
+------------------------------------------------------------------------------------------
+
+orden 66432089 tec LUIS MIGUEL ERAZO ,se valida motivo de suspensión Falta de materiales  observación movil con escalera antena sin señal se enruta para gestión 
+------------------------------------------------------------------------------------------
+
+orden 66425397 tec JEFFERSON BORRERO ,se valida motivo de suspensión Cliente ausente. observación intentamos comunicacion a la linea 023938294 la cual no tenemos contacto pendiente comunicación
+------------------------------------------------------------------------------------------
+
+orden 155719284 tec ALEXANDER BIOJO,se valida motivo de suspensión Falla masiva plataformas   tk pendiente 
+------------------------------------------------------------------------------------------
+
+orden 155305004 Daño másivo 3277992 tec ALEXANDER BIOJO ,se valida motivo de suspensión Falla masiva plataformas  Daño másivo 3277992
+------------------------------------------------------------------------------------------
+
+orden 155568727 Daño másivo 3277992 tec ALEXANDER BIOJO ,se valida motivo de suspensión Falla masiva plataformas  Daño másivo 3277992
+------------------------------------------------------------------------------------------
+
+orden 155722695 Daño másivo 3277992 tec ALEXANDER BIOJO ,se valida motivo de suspensión Falla masiva plataformas  
+------------------------------------------------------------------------------------------
+
+orden 66429943 tec RUBIEL COPETE ,se valida motivo de suspensión Orden de trabajo en ejecución.observación pendiente migraciones 
+------------------------------------------------------------------------------------------
+
+orden 155666262  tec ALEXANDER BIOJO ,se valida motivo de suspensión Orden de trabajo en ejecución. observación se valida orden con cliente a la linea 3176368744 no tenemos contacto tecnico sin observacionees se enruta para gestión 
+------------------------------------------------------------------------------------------
+
+orden 155256156 tec ALEXANDER BIOJO ,se valida motivo de suspensión Orden de trabajo en ejecución.se valida orden con cliente a la linea 3153127998 no tenemos contacto tecnico sin observacione es se enruta para gestión 
+
+------------------------------------------------------------------------------------------
+orden 66432827 tec CESAR TULIO LENIS,se valida motivo de suspensión Solicitud del cliente observación permisos con cliente se enrua para terminar 
+------------------------------------------------------------------------------------------
+
+orden 155632573 tec JUAN CARLOS RODRIGUEZ ,se valida motivo de suspensión Cliente solicita reagendar  tk A1590724 observación CERRADA se reagenda parea el 28-05-2020 jornada AM
+------------------------------------------------------------------------------------------
+
+
+orden 155557783 tec LUIS MIGUEL ERAZO,se valida motivo de suspensión Solicitud del cliente  observación nos comunicamos a la linea 3117679481 cliente diaz diana carolina indica que se encuentra en casa y no am recibido llamadas se enruta para gestión  
+------------------------------------------------------------------------------------------
+
+orden 66431324 tec RUBIEL COPETE ,se valida motivo de suspensión Orden de trabajo en ejecución.
+se está a la espera por parte de gestión enviar correo con peticiones a migrar
+------------------------------------------------------------------------------------------
+
+orden 155719284 tec ALEXANDER BIOJO ,se valida motivo de suspensión Falla masiva plataforma observación Falla masiva plataformas tk pendiente
+------------------------------------------------------------------------------------------
+
+orden 155568727 Daño másivo 3277992 tec ALEXANDER BIOJO ,se valida motivo de suspensión Falla masiva plataformas
+------------------------------------------------------------------------------------------
+
+orden 155678006 tec JUAN GUILLERMO BELTRAN ,se valida motivo de suspensión Cliente solicita reagendar  tk A1590763 observación CERRADA INFORMA QUE DESEA AGENDAR PARA EL DIA 27 MAYO PM
+------------------------------------------------------------------------------------------
+
+155711496 sin zonas ovimineto de apoyo eecc william solarte
+------------------------------------------------------------------------------------------
+
+66433037   porfa  antesitos de almuerzo  ANDRES FELIPE LOPEZ EECC DAVID BOTINA DE APOYO SIN ZONAS CARGADAS 
+------------------------------------------------------------------------------------------
+
+155569685  por favor   wilmer perea 1 posicion EECC WILLIAM MENESES  DE APOYO SIN HABILIDADES CARGADAS, EECC PENDIENTE ASIGNACIÓN HABILIDADES
+------------------------------------------------------------------------------------------
+
+orden 155666262 tec ALEXANDER BIOJO  ,se valida motivo de suspensión Orden de trabajo en ejecución. observación técnico sin observvaciones se enruta para gestión 
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+  
+---------------------------------------------------------------------------

@@ -1,0 +1,410 @@
+
+creado día 22 mes 05 año 2020 hora: 12 :38 :59
+MOVIMIENTO DE ORDEN : hhhhh  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 12 :39 :29
+MOVIMIENTO DE ORDEN : fffffffffffffffffff  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 12 :43 :15
+MOVIMIENTO DE ORDEN : 66666666666666666  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 14 :45 :24
+MOVIMIENTO DE ORDEN : Or 155551378  Tec jaime bolaños eecc milena palaciosmover a 1 posición
+------------------------------------------------------------------------------------------  
+
+Or 155570335  Tec CRISTIAN DAVID MURILLO  eecc katerine quinchia mover a 1 posición  , 
+------------------------------------------------------------------------------------------
+
+Or 66419982  Tec RICARDO ALONSO JIMENEZ eecc sandy serrano mover a 1 posición  ,   
+------------------------------------------------------------------------------------------
+
+Or 66420601 Tec  RICARDO ALONSO JIMENEZ eecc sandy serrano mover a 1 posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 155669045 Tec marcos leandro mosquera  eecc gisela marulanda mover a 1 posición  , 
+------------------------------------------------------------------------------------------
+
+Or 66419809 Tec JOSE BERTULFO HINCAPIE   eecc sandy serrano mover a 1 posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 66423588 Tec MARLON ANDRES RODRIGUEZ eecc betsy garcia mover a 1 posición  ,  
+------------------------------------------------------------------------------------------ 
+
+Or 155607398 Tec FRANK WILLIAM eecc katerine quinchia mover a 1 posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 152524812  Tec edinson guachavez eecc milena palacios mover 1 posición  ,  sobretiempo
+------------------------------------------------------------------------------------------
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :42 :38
+MOVIMIENTO DE ORDEN : Or 155608714  Tec carlos alberto solano eecc gisela marulandamover a 1posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 155593001 Tec NESTOR JULIAN CODOBA eecc katerine quinchia mover a 1 posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 152711013  Tec isaias hurtado eecc gisela marulanda mover a 1posición  ,
+de apoyo sin zonas Cargadas 
+------------------------------------------------------------------------------------------
+
+Or 155547208 Tec Kenne brandon Garces eecc gisela marulanda mover a 1 posición  ,   sobretiempo  
+------------------------------------------------------------------------------------------
+
+Or 155416067  Tec alexis mendoza eecc betsy garcia mover a 1 posición  , de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades 
+------------------------------------------------------------------------------------------
+
+Or 153208972  Tec MIGUEL ANGEL VIDAL eecc katerine quinchia mover a xx posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 155416067 Tec ANDRES DAVID COBALEDA eecc betsy garcia mover a 1posición  ,  
+
+------------------------------------------------------------------------------------------
+Or 152897274 Tec EDISSON FRANKLIN GUACHAVEZ eecc milena palacios mover a 1posición  ,  
+
+------------------------------------------------------------------------------------------
+Or 155616078 Tec William javier sarria eecc gisela marulanda mover a 1 posición  ,  
+------------------------------------------------------------------------------------------
+
+Or 152189725 Tec heider Rocha eecc milena palacios mover a1 posición
+------------------------------------------------------------------------------------------
+
+Or 66412317  Tec ALAN FERNEY CARABALI eecc sandy lorena serrano mover a 1 posición  
+------------------------------------------------------------------------------------------,  
+
+Or 66423955 Tec jesus rios eecc betsy garcia mover a 1 posición  ,
+------------------------------------------------------------------------------------------
+
+
+Or 66425154 Tec alexis mendoza eecc betsy garciamover a 1 posición  
+de apoyo sin zonas Cargadas 
+------------------------------------------------------------------------------------------
+
+Or 66424417 Tec alexis mendoza eecc betsy garciamover a 2 posición  ,
+de apoyo sin zonas Cargadas   
+------------------------------------------------------------------------------------------
+
+Or 66423001  Tec alexis mendoza eecc betsy garciamover a 3 posición  , 
+------------------------------------------------------------------------------------------
+
+Or 66410667 Tec jesus rios eecc betsy garcia mover a ultima posición  ,  
+eecc betsy garcia se levanta precalificacion  de apoyo sin zonas Cargadas
+------------------------------------------------------------------------------------------
+
+Or 66423001 Tec NESTOR JULIAN CODOBA eecc david botina mover a ultima posición  , de apoyo sin habilidades Cargadas, eecc pendiente asignación habilidades
+------------------------------------------------------------------------------------------
+
+Or 66416161   Tec ANDRES FERNANDO LEON eecc david botina mover a ultima posición  , de apoyo sin zonas Cargadas 
+------------------------------------------------------------------------------------------
+
+Or 66421391 Tec JEFFERSON BORRERO eecc david botina mover a ultima posición  , 
+------------------------------------------------------------------------------------------ 
+
+Or 66425154 Tec alexis mendoza  eecc betsy garcia mover a 1posición  ,
+------------------------------------------------------------------------------------------
+
+orden 66411582 tec marlon rodriguez ,se mueve orden eecc betsy garcia
+------------------------------------------------------------------------------------------ 
+
+  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :47 :14
+AJUSTE DE TIEMPO :155583113 JOHANNY DALBERTO MONTALVO Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista eecc katerine quinchia
+------------------------------------------------------------------------------------------
+
+155585057 JORGE ISAAC SEGURA Retraso en el cierre de la orden, informe para ajuste de tiempo, se valida técnico sin gestión eecc sandy serrano 
+------------------------------------------------------------------------------------------
+
+155572541 KEN EDWIN FILIGRANA Retraso en el cierre de la orden, informe para ajuste de tiempo, se valida técnico sin gestión eecc gisela marulanda
+------------------------------------------------------------------------------------------
+
+155504416 EDWARD MAPAYO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+155572541 KEN EDWIN FILIGRANA Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno eecc sandy serrano 
+------------------------------------------------------------------------------------------
+
+66421367 HEYDER ROMERO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+155504416 EDWARD MAPAYO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno eecc gisela marulanda 
+------------------------------------------------------------------------------------------
+
+155416067 ANDRES DAVID COBALEDA  Retraso de inicio de  orden,pendiente ajuste de tiempo por parte de contratista
+------------------------------------------------------------------------------------------
+
+152226278 ISIDRO FRANCO Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+66419809 JOSE BERTULFO HINCAPIE Retraso en el cierre de la orden,informe para ajuste de tiempo, motivo del técnico configuración en pruebas en terreno
+------------------------------------------------------------------------------------------
+
+155551378 JAIME HUMBERTO BOLAAOS Retraso en el cierre de la orden ,pendiente  para ajuste de tiempo por parte de la contratista. 
+------------------------------------------------------------------------------------------
+
+155585057 JORGE ISAAC SEGURA Retraso en el cierre de la orden, informe para ajuste de tiempo, se valida técnico sin gestión ni observaciones 
+------------------------------------------------------------------------------------------
+
+66419524 ALAN FERNEY CARABALI Retraso de inicio de orden,pendiente ajuste de tiempo por parte de contratista 
+------------------------------------------------------------------------------------------
+
+ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :52 :02
+SUSPENSIÓN :    orden 155597755 tec ARVEY VERGARA ,se valida motivo de suspensión Cliente solicita reagendar tk A1589109 observación Estado CERRADA se re-ageanda la visita para el dia Sabado 24 de mayo en franja pm
+------------------------------------------------------------------------------------------
+
+orden 66420601 tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación se necesita cuadrilla móvil con pala para poder abrirla y validar, usuario estará disponible todo el día pendiente apoyo 
+------------------------------------------------------------------------------------------
+
+orden 66419058 tec ALEXIS ALFONSO MENDOZA ,se valida motivo de suspensión Falta de materiales  observación Robo de cable se requiere escalera pendiente apoyo 
+------------------------------------------------------------------------------------------
+
+orden 155525200 tec FRANK WILLIAM PATIAO ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente observación tk S1589172 estado CERRADA se comunica el tecnico me indca que el usuario contesta y el guarda le informa hablo con una persona de movistar y la pidio para maNana se comunica a la linea 3155731533 se va a buzon la orden se suspende
+------------------------------------------------------------------------------------------
+
+orden 66420969 tec RICARDO ALONSO JIMENEZ ,se valida motivo de suspensión Pendiente respuesta Asistec  tk  B4751522 por Andres Diaz observación se pendiente solucion a suspensión a agendador al final de la josrnada 
+------------------------------------------------------------------------------------------
+
+or 155626450 motivo Cliente solicita reagendar Ticket A1589179 Estado CERRADA e reagenda 23/05/2020 franja am
+------------------------------------------------------------------------------------------
+
+orden 155416067 tec ANDRES DAVID COBALEDA ,se valida motivo de suspensión Orden de trabajo en ejecución.  observaciones de apoyo para otro tec
+------------------------------------------------------------------------------------------
+
+orden 66419346  tec JESUS DAVID RIOS ,se valida motivo de suspensión Cliente ausente.   observación intentamos comunicación a ala linea  23952752 no tenemos contacto a la espera de nueva comunicación
+------------------------------------------------------------------------------------------
+
+orden 155570335 tec CRISTHIAN DAVID MURILLO ,se valida motivo de suspensión Orden de trabajo en ejecución.  observación Se realiza la instalación no se entrega el servicio por fallas en arrodatiempo afectando la activación y por tal motivo queda suspendida
+------------------------------------------------------------------------------------------
+
+orden 155515553 tec  HEIDER ENRIQUE ROCHA ,se valida motivo de suspensión Cliente solicita reagendar   tk A1589240	 observación ACEPTA AGENDAR 23 DE MAYO 2020 AM
+
+------------------------------------------------------------------------------------------
+orden 152936296 tec ISAIAS HURTADO ,se valida motivo de suspensión Inconveniente de ingreso por cuarentena   observación no hay contacto se suspende en agendador 
+------------------------------------------------------------------------------------------
+
+Or 152357334 Tec CRISTHIAN DAVID MURILLO ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1589293 observación Estado CERRADA NO HAY NADIE EN EL PREDIO Y NO CONTESTA NUMERO
+------------------------------------------------------------------------------------------
+
+orden 155666972 tec ANDRES FELIPE VILLAQUIRAN  ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1589313 observación tecnico se comunica e indica que me colaboras por favor para reage dar la instalacion para el dia de maNana jornada pm, pero dice que no habia nadie en el predio y la comunicacion se corto, se suspende por incumplimiento ya que no se concreto la visita con el tt
+------------------------------------------------------------------------------------------
+
+orden 153208972 tec MIGUEL ANGEL VIDAL ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1589294 observación CERRADA TECNICO NO LOGRA CONTACTO CON EL CLIENTE SE GESTIONA ORDEN POR INCUMPLIMIENTO
+------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :52 :23
+VALIDACION DE DATOS :  66422331 ALEXIS ALFONSO MENDOZA Falta de materiales
+ se le indica a gestora Betsey Garcia / tecnico requiere escalera / pendiente asignacion de apoyo   
+
+66411582 ALEXIS ALFONSO MENDOZA  Falta de materiales
+ se le informa a gestora Betsey Garcia tecnico requiere apoyo de escalera pendiente asignacion 
+
+66422007 HEYDER ROMERO Falta de materiales se le informa a gestora Betsey garcia ntecnico requiere escalera / a la espera de asignacion tecnico de apoyo
+
+66419168 EDWARD MAPAYO Solicitud del cliente se valida con usuario 3175130430/ indica que atiende mañana jornada am / se envia a bucket tecnico sale de terreno/ se valido con gestora Katherine Vera
+
+66416455 RICARDO ALONSO JIMENEZ Solicitud del cliente usuario confirma al numero 3174304761 el dia de mañana atendera en jornada am / pendiente enviar a bucket
+
+66412317 ALAN FERNEY CARABALI Solicitud del cliente Se llama a TT 3156282199 Liliana Rico indicaque esta trabajando y que puede recibir despues de las 4 pm, se deja pendiente
+
+66422181 ALAN FERNEY CARABALI Pendiente respuesta Asistec
+ Se valida, endiente respuesta Asistec, Se llega a predio, hgu sin potencia no auténtica, se válida password id tiene uno diferente al que está en Toa se quema el de Toa pero el hgu no auténtica, se llama a opción 6 personal de opción 6, me hace quemar otra vez el password id, pero este no sincroniza ni auténtica, personal de opción 6 escala la orden a segundo nivel con tk B4750760
+
+66419944 JOSE BERTULFO HINCAPIE Pendiente respuesta Asistec B4750596 66419944 6419944 8230662 FTTH NO NAVEGA PATINO PIZA EDWIN YOANY 2 NIVEL ABIERTA 22/05/2020 1108 24 am
+ 
+ 
+
+ 
+ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :53 :42
+QUIEBRE :   
+orden 155607549 tec KENNE BRANDON GARCES ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Red secundaria saturada CTO 5-12-01 se encuentra saturada, en toda la unidad no hay puertos para realizar la instalación se le informa Al usuario que no se le puede realizar la instalación 
+------------------------------------------------------------------------------------------
+
+orden 155635652 tec ANDRES DAVID COBALEDA ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Caja 328 saturada
+------------------------------------------------------------------------------------------
+
+orden 155669774 tec MIGUEL ANGEL VIDAL ,se valida motivo  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 16 :55 :13
+ALMUERZO :      
+Or 00000 Tec ALAN FERNEY CARABALI eecc sandi lorena mover a 1 almuerzo  posición  , 
+------------------------------------------------------------------------------------------
+
+or 00000 tec ELKIN ANDRES DIAZ Retraso de inicio de orden almuerzo ,pendiente ajuste de tiempo por parte de contratista 
+------------------------------------------------------------------------------------------
+
+Or 00000  Tec alan ferney carabali eecc sandy lorena mover a 1 posición  , 
+------------------------------------------------------------------------------------------
+
+Or 00000 Tec EDWARD MAPAYO eecc gisela marulanda mover a 1 posición  
+------------------------------------------------------------------------------------------,   
+ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 17 :52 :17
+MOVIMIENTO DE ORDEN : Or 66424337 Tec JOSE JAIDERME OQUENDO eecc david botina mover a despues de la iniciada posición  ,  de apoyo sin zonas Cargadas 
+------------------------------------------------------------------------------------------
+
+Or 66424337 Tec JOSE JAIDERME OQUENDO eecc david botina mover a 1 posición  ,  de apoyo sin zonas Cargadas se levanta respuesta 
+------------------------------------------------------------------------------------------
+
+
+Or 66412452 Tec ANDRES FERNANDO LEON eecc david botina mover a 1 posición  , de apoyo sin zonas Cargadas  
+------------------------------------------------------------------------------------------
+
+Or 66412908 Tec ANDRES FERNANDO LEON eecc david botinamover a 2 posición  ,  de apoyo sin zonas Cargadas se retira tec requerido se levanta suspension 
+------------------------------------------------------------------------------------------
+
+Or 66405827 Tec ANDRES FERNANDO LEON eecc david botinamover a 3 posición  ,   de apoyo sin zonas Cargadas se retira tec requerido se levanta suspension
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 17 :57 :33
+SUSPENSIÓN :     orden 155416067 tec ANDRES DAVID COBALEDA ,se valida motivo de suspensión Requiere precalificación. Caja 544 545 546 pares malos sin continuidad garantizar para 10 megas se suspende en agendador 
+------------------------------------------------------------------------------------------
+
+orden 66425474 tec JUAN ALBERTO PRECIADO ,se valida motivo de suspensión Cliente ausente. observación intentamos comun9icacion con la linea 3178651985 el cual ingresa a buzon
+------------------------------------------------------------------------------------------ 
+
+orden 66425195 tec ANDRES DAVID COBALEDA ,se valida motivo de suspensión Solicitud del cliente Usuario informa que atiende el día de mañana en horas am entre las 10 y 11 am-
+
+-----------------------------------------------------------------------------------------
+
+orden 155666972 tec ANDRES FELIPE VILLAQUIRAN ,se valida motivo de suspensión Incumplimiento de cita por parte del cliente
+ tk S1589313 observación CERRADA se suspende por incumplimiento ya que no se concreto la visita con el tt
+------------------------------------------------------------------------------------------
+
+orden 66412317 tec ALAN FERNEY CARABALI ,se valida motivo de suspensión Orden de trabajo en ejecución.
+ observación  se requiere cuadrilla móvil 
+------------------------------------------------------------------------------------------
+
+orden 66424417 tec ALEXIS ALFONSO MENDOZA,se valida motivo de suspensión Solicitud del cliente observación solicita visita para el sábado nueve AM
+------------------------------------------------------------------------------------------
+
+orden 155623716 tec OSCAR MINA ,se valida motivo de suspensión Cliente solicita reagendar tk A1589392 observación CERRADA confirma cedula 16750934 y vista para el dia de maNana
+------------------------------------------------------------------------------------------
+  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :00 :59
+AGENDAR :155551378   hoy pm EECC milena palacios
+------------------------------------------------------------------------------------------
+
+155570335  hoy pm eecc katerine quinchia 
+------------------------------------------------------------------------------------------
+
+155608714   hoy pm eecc gisela marulanda
+------------------------------------------------------------------------------------------
+
+155593001  hoy pm katerine quinchia
+------------------------------------------------------------------------------------------
+
+155616078 hoy pm eecc gisela marulanda
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :02 :10
+AUTORIZACIONES :      agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina 
+66420667 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66412452 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66412908 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66414501 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66417173 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66418969 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66423186 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66414810 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66414449 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66422789 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66415700 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66423732 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66405827 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+66421339 Suspender en agendador motivo  OTRO Escaladas analista eliuth garcia no pueden estar  en terreno eecc david botina
+
+152936296  habilitar boton suspension eecc gisela marulanda intentamos comunicacion al numero 3016604679 sin contacto  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :32 :11
+AUTORIZACIONES :66402758
+66419168
+66419982
+66415611
+66412317
+66410454
+66419524
+66416455
+66421863
+66421019
+66416492
+
+
+solo levantar suspencion porfa
+
+nesecito que se enrruten mañana a terreno  porfa .. 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :32 :48
+SUSPENSIÓN : orden 155616078  tec WILLIAM JAVIER SARRIA ,se valida motivo de suspensión Orden de trabajo en ejecución.observación pendiente cableado de la televisión usuario recibe el servicio mañana se intenta comunicar con linea 	3185265636 usuario confirma se agenda franja am 
+------------------------------------------------------------------------------------------  
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :40 :17
+CIERRE DE RUTA : 66420956 RICARDO ALONSO JIMENEZ cierre de ruta 
+------------------------------------------------------------------------------------------
+66415611  RICARDO ALONSO JIMENEZ cierre de ruta  
+------------------------------------------------------------------------------------------
+66419982 RICARDO ALONSO JIMENEZ   cierre de ruta 
+------------------------------------------------------------------------------------------
+
+66421863 ALAN FERNEY CARABALI  cierre de ruta
+------------------------------------------------------------------------------------------
+66419149 ALAN FERNEY CARABALI cierre de ruta
+------------------------------------------------------------------------------------------
+66419524  ALAN FERNEY CARABALI cierre de ruta
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :42 :55
+COMPLETADAS :     Or 66415782 Tec   RODRIGO OBREGON observación completada de acuerdo al lineamiento 
+------------------------------------------------------------------------------------------
+
+Or 66423534 Tec ALEXIS ALFONSO MENDOZA observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66424327 Tec JOSE BERTULFO HINCAPIE observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66418423 Tec LINO MAZUERA observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+or 66421893 tec ALAN FERNEY CARABALI observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------
+
+Or 66421978 Tec MIGUEL ANGEL VIDAL observación completada de acuerdo al lineamiento
+------------------------------------------------------------------------------------------ 
+---------------------------------------------------------------------------
+creado día 22 mes 05 año 2020 hora: 18 :57 :23
+AJUSTE DE TIEMPO :Or 66421978 Tec MIGUEL ANGEL VIDAL observación completada de acuerdo al lineamiento eecc katerine quinchia  
+---------------------------------------------------------------------------

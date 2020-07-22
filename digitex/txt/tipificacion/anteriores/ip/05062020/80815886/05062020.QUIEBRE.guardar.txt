@@ -1,0 +1,7 @@
+
+17 :26 :53 
+    156083101 tec BRAINER STEVEN BOLAAOS  Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Ticket Supervisor DL-0252  
+------------------------------------------------------------------------------------------
+
+orden 156109883 tec ELKIN ANDRES DIAZ ,se valida motivo Quiebre Técnico Motivo No Realizado Banda Ancha RED SECUNDARIA SATURADA Observaciones No Realizado Banda Ancha Se quiebra la orden por qué la CTO se encuentra saturada por lo tanto no se puede realizar la instalación tike m2900 
+---------------------------------------------------------------------------
