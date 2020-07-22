@@ -16,7 +16,7 @@ error_reporting(0);
 		 $guardar=fopen("../../txt/tipificacion/$cedula/ip/$fecha1/$fecha1.$nombre.guardar.txt", "a");
 		  fwrite ($guardar,$contenido);
 
-		  //mkdir("../txt/tipificacion/$cedula/ip/$fecha1", 0700 , true);
+		  //mkdir("../txt/tipificacion/$cedula/ip/$fecha1", 0700 , true);s
 		echo "<script type='text/javascript'>";
 		echo "window.history.back(-1)"; 
 		    // echo "<script>alert('aaa');</script>";
